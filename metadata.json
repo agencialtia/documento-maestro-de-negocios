@@ -1,0 +1,7 @@
+{
+  "name": "ScreenOS Flow",
+  "description": "Tu punto de partida para crear y gestionar cualquier negocio.",
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
